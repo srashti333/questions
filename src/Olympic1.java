@@ -50,9 +50,10 @@ class olym
     }
 
 }
+//
 public class Olympic1 {
     public static void main(String[] args) {
-        Test obj=new Test();
+        olym obj=new olym();
         int[] arr=obj.sum();
         for(int i=0;i<arr.length;i++)
         {
